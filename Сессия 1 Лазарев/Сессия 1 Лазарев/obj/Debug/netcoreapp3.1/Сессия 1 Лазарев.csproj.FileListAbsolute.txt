@@ -1,0 +1,19 @@
+C:\Users\Студент 2\Desktop\Сессия Лазарев\Сессия 1 Лазарев\Сессия 1 Лазарев\obj\Debug\netcoreapp3.1\Сессия 1 Лазарев.csproj.AssemblyReference.cache
+C:\Users\Студент 2\Desktop\Сессия Лазарев\Сессия 1 Лазарев\Сессия 1 Лазарев\obj\Debug\netcoreapp3.1\Сессия_1_Лазарев.Авторизация.resources
+C:\Users\Студент 2\Desktop\Сессия Лазарев\Сессия 1 Лазарев\Сессия 1 Лазарев\obj\Debug\netcoreapp3.1\Сессия_1_Лазарев.Properties.Resources.resources
+C:\Users\Студент 2\Desktop\Сессия Лазарев\Сессия 1 Лазарев\Сессия 1 Лазарев\obj\Debug\netcoreapp3.1\Сессия 1 Лазарев.csproj.GenerateResource.cache
+C:\Users\Студент 2\Desktop\Сессия Лазарев\Сессия 1 Лазарев\Сессия 1 Лазарев\obj\Debug\netcoreapp3.1\Сессия 1 Лазарев.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Студент 2\Desktop\Сессия Лазарев\Сессия 1 Лазарев\Сессия 1 Лазарев\obj\Debug\netcoreapp3.1\Сессия 1 Лазарев.AssemblyInfoInputs.cache
+C:\Users\Студент 2\Desktop\Сессия Лазарев\Сессия 1 Лазарев\Сессия 1 Лазарев\obj\Debug\netcoreapp3.1\Сессия 1 Лазарев.AssemblyInfo.cs
+C:\Users\Студент 2\Desktop\Сессия Лазарев\Сессия 1 Лазарев\Сессия 1 Лазарев\obj\Debug\netcoreapp3.1\Сессия 1 Лазарев.csproj.CoreCompileInputs.cache
+C:\Users\Студент 2\Desktop\Сессия Лазарев\Сессия 1 Лазарев\Сессия 1 Лазарев\obj\Debug\netcoreapp3.1\Сессия_1_Лазарев.Админ.resources
+C:\Users\Студент 2\Desktop\Сессия Лазарев\Сессия 1 Лазарев\Сессия 1 Лазарев\obj\Debug\netcoreapp3.1\Сессия_1_Лазарев.Пользователь.resources
+C:\Users\Студент 2\Desktop\Сессия Лазарев\Сессия 1 Лазарев\Сессия 1 Лазарев\bin\Debug\netcoreapp3.1\Сессия 1 Лазарев.exe
+C:\Users\Студент 2\Desktop\Сессия Лазарев\Сессия 1 Лазарев\Сессия 1 Лазарев\bin\Debug\netcoreapp3.1\Сессия 1 Лазарев.deps.json
+C:\Users\Студент 2\Desktop\Сессия Лазарев\Сессия 1 Лазарев\Сессия 1 Лазарев\bin\Debug\netcoreapp3.1\Сессия 1 Лазарев.runtimeconfig.json
+C:\Users\Студент 2\Desktop\Сессия Лазарев\Сессия 1 Лазарев\Сессия 1 Лазарев\bin\Debug\netcoreapp3.1\Сессия 1 Лазарев.runtimeconfig.dev.json
+C:\Users\Студент 2\Desktop\Сессия Лазарев\Сессия 1 Лазарев\Сессия 1 Лазарев\bin\Debug\netcoreapp3.1\Сессия 1 Лазарев.dll
+C:\Users\Студент 2\Desktop\Сессия Лазарев\Сессия 1 Лазарев\Сессия 1 Лазарев\bin\Debug\netcoreapp3.1\Сессия 1 Лазарев.pdb
+C:\Users\Студент 2\Desktop\Сессия Лазарев\Сессия 1 Лазарев\Сессия 1 Лазарев\obj\Debug\netcoreapp3.1\Сессия 1 Лазарев.dll
+C:\Users\Студент 2\Desktop\Сессия Лазарев\Сессия 1 Лазарев\Сессия 1 Лазарев\obj\Debug\netcoreapp3.1\Сессия 1 Лазарев.pdb
+C:\Users\Студент 2\Desktop\Сессия Лазарев\Сессия 1 Лазарев\Сессия 1 Лазарев\obj\Debug\netcoreapp3.1\Сессия 1 Лазарев.genruntimeconfig.cache

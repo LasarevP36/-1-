@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Сессия 1 Лазарев/1.0.0": {
+        "runtime": {
+          "Сессия 1 Лазарев.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Сессия 1 Лазарев/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
